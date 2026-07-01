@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FaceMatch</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="/" class="logo">FaceMatch</a>
+            <div class="nav-links">
+                <a href="index.html" class="active">Vote</a>
+                <a href="leaderboard.html">Leaderboard</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <h1 class="page-title">Which image is hotter?</h1>
+        
+        <div class="voting-container">
+            <!-- Left Image -->
+            <div class="image-card" id="imageACard">
+                <div class="image-wrapper">
+                    <img id="imageA" src="" alt="Image A" class="voting-image">
+                </div>
+            </div>
+
+            <div class="vs-divider">VS</div>
+
+            <!-- Right Image -->
+            <div class="image-card" id="imageBCard">
+                <div class="image-wrapper">
+                    <img id="imageB" src="" alt="Image B" class="voting-image">
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/voting.js"></script>
+</body>
+</html>
