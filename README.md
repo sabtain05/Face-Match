@@ -17,7 +17,7 @@ Users can upload two images and the system analyzes facial features to determine
 
 ---
 
-# ✨ Features
+# Features
 
 - 📸 Upload two face images
 - 🧠 AI-powered face comparison
