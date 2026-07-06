@@ -1,6 +1,6 @@
 # Face Match
 
-> 🧠 AI-powered facial recognition and face matching web application built with JavaScript, Node.js, and modern computer vision technologies.
+>  AI-powered facial recognition and face matching web application built with JavaScript, Node.js, and modern computer vision technologies.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
