@@ -209,7 +209,7 @@ npm run dev
 
 ---
 
-# 🎮 How It Works
+# How It Works
 
 1. Two random user profiles are displayed.
 2. The visitor selects the more attractive face.
@@ -217,32 +217,6 @@ npm run dev
 4. The loser loses rating points.
 5. Rankings update instantly.
 6. Users continue voting with new face pairs.
-
----
-
-# 📸 Screenshots
-
-## Home Page
-
-> Add Screenshot Here
-
----
-
-## Voting Interface
-
-> Add Screenshot Here
-
----
-
-## Leaderboard
-
-> Add Screenshot Here
-
----
-
-## User Profile
-
-> Add Screenshot Here
 
 ---
 
