@@ -91,7 +91,7 @@ Face-Match/
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ## Clone Repository
 
