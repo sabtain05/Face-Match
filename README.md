@@ -68,7 +68,7 @@ The project demonstrates real-world full-stack development, including image uplo
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 - Mobile Friendly
 - Tablet Support
