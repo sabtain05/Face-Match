@@ -220,7 +220,7 @@ npm run dev
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 - AI Face Detection
 - Face Similarity Matching
@@ -285,7 +285,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Sabtain Ali**
 
