@@ -237,7 +237,7 @@ npm run dev
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
@@ -265,7 +265,7 @@ git push origin feature-name
 
 ---
 
-# ⚠️ Disclaimer
+# Disclaimer
 
 This project is a personal educational recreation inspired by the original **Facemash** website created by **Mark Zuckerberg** in 2003.
 
@@ -273,13 +273,13 @@ It is intended solely for learning, demonstration, and portfolio purposes and is
 
 ---
 
-# ⭐ Support
+# Support
 
 If you enjoyed this project, please consider giving it a ⭐ on GitHub.
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
