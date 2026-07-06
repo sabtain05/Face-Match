@@ -76,7 +76,7 @@ The project demonstrates real-world full-stack development, including image uplo
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ## Frontend
 
