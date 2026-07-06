@@ -289,6 +289,7 @@ This project is licensed under the MIT License.
 
 **Sabtain Ali**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sabtain05
 
-LinkedIn: https://linkedin.com/in/yourprofile
+
+**A Sabtain Ali production**
