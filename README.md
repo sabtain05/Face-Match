@@ -56,7 +56,7 @@ Users can upload two images and the system analyzes facial features to determine
 
 ---
 
-# 🚀 How It Works
+# How It Works
 
 1. Upload the first face image.
 2. Upload the second face image.
