@@ -46,11 +46,11 @@ Users can upload two images and the system analyzes facial features to determine
 
 ## AI / Computer Vision
 
-- face-api.js *(or update with your actual library)*
-- TensorFlow.js *(if used)*
-- OpenCV *(if used)*
+- face-api.js 
+- TensorFlow.js 
+- OpenCV 
 
-## Database *(if applicable)*
+## Database 
 
 - MongoDB
 
