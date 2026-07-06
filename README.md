@@ -20,7 +20,7 @@ Users can upload two images and the system analyzes facial features to determine
 # Features
 
 -  Upload two face images
-- 🧠 AI-powered face comparison
+-  AI-powered face comparison
 - 📊 Match confidence score
 - ⚡ Fast image processing
 - 🖥️ Responsive user interface
