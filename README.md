@@ -96,7 +96,7 @@ Face-Match/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Face-Match.git
+git clone https://github.com/sabtain05/Face-Match.git
 
 cd Face-Match
 ```
