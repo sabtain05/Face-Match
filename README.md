@@ -67,7 +67,7 @@ Users can upload two images and the system analyzes facial features to determine
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Face-Match/
