@@ -111,7 +111,7 @@ The project demonstrates real-world full-stack development, including image uplo
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Face-Match/
