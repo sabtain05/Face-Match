@@ -137,7 +137,7 @@ Face-Match/
 
 ---
 
-# 🚀 Getting Started
+# Getting Started
 
 ## Clone Repository
 
