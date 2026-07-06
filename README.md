@@ -31,7 +31,7 @@ Users can upload two images and the system analyzes facial features to determine
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Frontend
 
