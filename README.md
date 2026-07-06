@@ -21,13 +21,13 @@ Users can upload two images and the system analyzes facial features to determine
 
 -  Upload two face images
 -  AI-powered face comparison
-- 📊 Match confidence score
-- ⚡ Fast image processing
-- 🖥️ Responsive user interface
-- 🔒 Secure file handling
-- 📁 Image upload support
-- ❌ Invalid image detection
-- 📱 Mobile-friendly design
+-  Match confidence score
+-  Fast image processing
+-  Responsive user interface
+-  Secure file handling
+-  Image upload support
+-  Invalid image detection
+-  Mobile-friendly design
 
 ---
 
