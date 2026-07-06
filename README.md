@@ -59,7 +59,7 @@ The project demonstrates real-world full-stack development, including image uplo
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 - Total Users
 - Total Votes
