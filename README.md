@@ -84,7 +84,6 @@ The project demonstrates real-world full-stack development, including image uplo
 - CSS
 - JavaScript
 
-*(Replace with React if applicable.)*
 
 ---
 
