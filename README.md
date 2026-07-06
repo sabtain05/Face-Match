@@ -9,7 +9,7 @@
 
 ---
 
-# 📖 Overview
+# Overview
 
 Face Match is a web application that compares human faces using facial recognition technology.
 
