@@ -8,7 +8,6 @@ frontend/node_modules/
 backend/.env
 frontend/.env
 
-# Uploaded images (if you don't want to upload them)
 uploads/
 backend/uploads/
 
