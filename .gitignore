@@ -12,5 +12,4 @@ frontend/.env
 uploads/
 backend/uploads/
 
-# Logs
 npm-debug.log
